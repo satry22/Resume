@@ -340,7 +340,7 @@ footer {
     margin: 0;
 }
 
-timeline-item:after {
+.timeline-item:after {
     width: 12px;
     height: 12px;
     display: block;
@@ -355,7 +355,6 @@ timeline-item:after {
 .history-items {
     margin-bottom: 30px;
 }
-
 /* ----------------------------------------Contact Form */
 
 .contact-heading {
